@@ -153,7 +153,7 @@ Required libraries:
 
 ## About Me
 
-I am passionate about Data Science and Machine Learning. I enjoy solving real-world problems using data analysis, visualization, and predictive modeling. This project showcases my skills in data preprocessing, exploratory data analysis, and regression modeling.
+I am passionate about Data Science and Machine Learning. I enjoying to solve real-world problems using data analysis, visualization, and predictive modeling. This project showcases my skills in data preprocessing, exploratory data analysis, and regression modeling.
 
 ---
 
